@@ -1,0 +1,2 @@
+That is my 1st DevOps project. 
+To set the webserver i created ann instance on my AWS account, then went to Ubuntu and installed apache2 to create a website using the index.html file
